@@ -5,3 +5,7 @@ Simple, quick and easy virtual dice roller. It can be used for board games to ge
 This app is completely Ad-Free.
 
 ![App screenshot](media/screenshot.png)
+
+
+## Checkout Design:
+[<img align="left" src="media/dribbble.svg">](https://dribbble.com/shots/14264776-Dice)
